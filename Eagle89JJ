@@ -1,0 +1,1 @@
+node scripts/manualLinkHumanToAgent.js --challenge '{'name': 'Agent Name', 'description': 'Short description of the agent'}'
